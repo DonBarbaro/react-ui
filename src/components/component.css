@@ -1,0 +1,122 @@
+.robot_operation_main{
+    background-color: rgb(241, 241, 241);
+    margin-left: 75px;
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 95%;
+    position: relative;
+}
+.switch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+    height: 50px;
+   
+}
+.btn{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 10px;
+}
+.btn:hover {
+    color: #15cbf9;
+} 
+
+.Control{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin:10px;
+    height: 50px;
+    background-color: gray;
+    border-radius: 5px;
+
+}
+
+.robocop{
+    margin-top: 10px;
+   color: white; 
+   font-size: large;
+}
+
+.robot{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin:10px;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+/* Toogle Tab */
+.Toogle{
+    justify-content: center;
+    align-items: center; 
+    margin:10px;
+    height: 50px;
+    background-color: gray;
+    border-radius: 5px;
+    max-width: 95%;
+
+}
+
+.both_tabs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+    height: 50px;
+    color: white;
+   
+}
+
+.nav-tabs .nav-item{
+    color: white;
+    /* margin-left: 20px; */
+}
+
+.nav-tabs .nav-link.active {
+    color: #15cbf9;
+    
+}
+
+.checkbox-as{
+    justify-content: center;
+    align-items: center; 
+    margin:10px;
+    background-color: gray;
+    border-radius: 5px;
+    max-width: 95%;
+    color: white;
+    
+
+}
+
+.checkbox-as .form-check-input{
+    margin-top: 17px;
+    
+}
+.checkbox-as .form-check-label{
+    margin-top: 10px;
+}
+
+.card-header{
+    background-color: grey;
+    color:white;
+}
+.card-header:hover {
+        color: #15cbf9;
+}  
+
+.card_tool_power{
+    margin-top: 10PX;
+    
+}
+
+.tool_power {
+    display: flex;
+}
+.tool_power .form-check-label{
+    margin-right: 20px;
+}
